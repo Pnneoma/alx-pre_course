@@ -1,6 +1,6 @@
-<<<<<<< HEAD
--m #!/bin/bash \n echo "ALX School is cool!" 
-=======
--m #!/bin/bash \n echo "ALX School"
+
+ #!/bin/bash
+
+ echo "ALX School"
  
->>>>>>> update_script
+
